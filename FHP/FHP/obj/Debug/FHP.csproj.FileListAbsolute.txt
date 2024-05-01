@@ -1,0 +1,7 @@
+C:\Users\Prave\source\repos\FHP\FHP\bin\Debug\FHP.exe.config
+C:\Users\Prave\source\repos\FHP\FHP\bin\Debug\FHP.exe
+C:\Users\Prave\source\repos\FHP\FHP\bin\Debug\FHP.pdb
+C:\Users\Prave\source\repos\FHP\FHP\obj\Debug\FHP.csproj.AssemblyReference.cache
+C:\Users\Prave\source\repos\FHP\FHP\obj\Debug\FHP.csproj.CoreCompileInputs.cache
+C:\Users\Prave\source\repos\FHP\FHP\obj\Debug\FHP.exe
+C:\Users\Prave\source\repos\FHP\FHP\obj\Debug\FHP.pdb
